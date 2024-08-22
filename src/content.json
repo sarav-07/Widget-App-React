@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "CSPM Executive Dashboard",
+      "widgets": [
+        {
+          "id": 101,
+          "name": "Cloud Accounts",
+          "image": "/assets/cloud-storage.png",
+          "text": "Cloud accounts refer to user accounts on cloud services, providing access to resources like storage, computing power, and applications over the internet. They offer scalability, security, and accessibility, making them essential for modern digital operations and businesses."
+        },
+        {
+          "id": 102,
+          "name": "Widget-2",
+          "image": "/assets/Widget2.png",
+          "text": "A widget could be a digital tool or interface component, like a weather display or clock, embedded in websites or applications. These widgets enhance user experience by providing quick access to information or functionalities without navigating away from the main interface."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Sales Dashboard",
+      "widgets": [
+        {
+          "id": 201,
+          "name": "Promotion",
+          "image": "/assets/promotion.png",
+          "text": "A sales widget is an interactive tool embedded in websites or applications, designed to boost conversions by showcasing products, offers, or deals. It can display discounts, track customer behavior, and facilitate quick purchases, streamlining the buying process for users."
+        },
+        {
+            "id": 202,
+            "name": "Price Tag",
+            "image": "/assets/price-tag.png",
+            "text": "Another type of sales widget might provide real-time sales analytics, presenting data on sales performance, trends, and customer insights. By integrating with sales platforms, it helps businesses monitor their progress, adjust strategies, and optimize sales efforts directly from their dashboard or website."
+          }
+      ]
+    }
+  ]
+}
